@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260609154206LPDLYI</value>
+    <value>202606091618502HO1LK</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260609154206NIWHNX</value>
+    <value>20260609161850SHPUL3</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -264,14 +264,14 @@ El recurso ha sido diseñado siguiendo principios DUA, fomentando la creatividad
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p><span style="font-family: 'comic sans ms', sans-serif;"><strong>Welcome!</strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">You are about to start a new adventure.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">First, take a look at this presentation to discover what our project is about, who we are going to help, and what challenges we will face.</span></p>
-<p><a href="canva"><span style="font-family: 'comic sans ms', sans-serif;" title="">https://www.canva.com/design/DAHKBneatP0/UQAgNdADHtgRK7C4yR-aBw/edit</span></a></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;" title=""><a href="https://www.canva.com/design/DAHKBneatP0/UQAgNdADHtgRK7C4yR-aBw/edit">View the complete project</a></span></p>
 <p><span style="font-family: 'comic sans ms', sans-serif;">------------------------------------------------------------------------------------------------------------</span></p>
 <p><span style="font-family: 'comic sans ms', sans-serif;">Bienvenidos!</span></p>
 <p><span style="font-family: 'comic sans ms', sans-serif;">Estamos a punto de comenzar una nueva aventura.</span></p>
 <p><span style="font-family: 'comic sans ms', sans-serif;">Primero, echad un vistazo a la presentación para descubrir sobre que va nuestro proyecto, a quién va dirigido, temporalización de dicho proyecto y con que retos nos encontraremos entre otras cosas.</span></p>
-<p><a href="canva"><span style="font-family: 'comic sans ms', sans-serif;" title="">https://www.canva.com/design/DAHKBneatP0/UQAgNdADHtgRK7C4yR-aBw/edit</span></a></p>
+<p><a href="https://www.canva.com/design/DAHKBneatP0/UQAgNdADHtgRK7C4yR-aBw/edit"><span style="font-family: 'comic sans ms', sans-serif;" title="">Ver el proyecto completo</span></a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779811352611-nzxc762rg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><strong>Welcome!</strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">You are about to start a new adventure.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">First, take a look at this presentation to discover what our project is about, who we are going to help, and what challenges we will face.</span></p>\n<p><a href=\"canva\"><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">https://www.canva.com/design/DAHKBneatP0/UQAgNdADHtgRK7C4yR-aBw/edit</span></a></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">------------------------------------------------------------------------------------------------------------</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Bienvenidos!</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Estamos a punto de comenzar una nueva aventura.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Primero, echad un vistazo a la presentación para descubrir sobre que va nuestro proyecto, a quién va dirigido, temporalización de dicho proyecto y con que retos nos encontraremos entre otras cosas.</span></p>\n<p><a href=\"canva\"><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">https://www.canva.com/design/DAHKBneatP0/UQAgNdADHtgRK7C4yR-aBw/edit</span></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779811352611-nzxc762rg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><strong>Welcome!</strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">You are about to start a new adventure.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">First, take a look at this presentation to discover what our project is about, who we are going to help, and what challenges we will face.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\"><a href=\"https://www.canva.com/design/DAHKBneatP0/UQAgNdADHtgRK7C4yR-aBw/edit\">View the complete project</a></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">------------------------------------------------------------------------------------------------------------</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Bienvenidos!</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Estamos a punto de comenzar una nueva aventura.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Primero, echad un vistazo a la presentación para descubrir sobre que va nuestro proyecto, a quién va dirigido, temporalización de dicho proyecto y con que retos nos encontraremos entre otras cosas.</span></p>\n<p><a href=\"https://www.canva.com/design/DAHKBneatP0/UQAgNdADHtgRK7C4yR-aBw/edit\"><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">Ver el proyecto completo</span></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
