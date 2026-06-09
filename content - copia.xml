@@ -1,0 +1,1977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202606091618502HO1LK</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260609161850SHPUL3</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>THE MAGIC FOREST: GUARDIAN OF NATURE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Science and English Project for 4th Grade Primary Education</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Eva Talavera Bailén</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje interdisciplinar dirigida al alumnado de 4º de Educación Primaria en un contexto bilingüe.
+
+El proyecto trabaja el cuidado del medioambiente y los ecosistemas mediante metodologías activas, herramientas digitales y actividades cooperativas. El alumnado elaborará una campaña digital de concienciación medioambiental utilizando diferentes recursos tecnológicos.
+
+El recurso ha sido diseñado siguiendo principios DUA, fomentando la creatividad, la competencia digital y el aprendizaje significativo.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781012520860</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq6ovc5u-grg732imq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. HOME</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. HOME</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. HOME</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. HOME</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc5u-grg732imq</odePageId>
+      <odeBlockId>block-1779812492955-wqp7rokmv</odeBlockId>
+      <blockName>1.HOME</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc5u-grg732imq</odePageId>
+          <odeBlockId>block-1779812492955-wqp7rokmv</odeBlockId>
+          <odeIdeviceId>idevice-1779812492954-3nroj06xi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-family: 'comic sans ms', sans-serif;"><strong>Welcome to our magical adventure!</strong></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">In this project we will become guardians of nature and learn how to protect our planet through games, challenges and digital tools.</span></p>
+<p><img src="{{context_path}}/content/resources/PORTADA DEL PROYECTO.png" title="THE MAGIC FOREST" width="1536" height="1024" alt="PORTADA DEL PROYECTO" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779812492954-3nroj06xi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><strong>Welcome to our magical adventure!</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">In this project we will become guardians of nature and learn how to protect our planet through games, challenges and digital tools.</span></p>\n<p><img src=\"{{context_path}}/content/resources/PORTADA DEL PROYECTO.png\" title=\"THE MAGIC FOREST\" width=\"1536\" height=\"1024\" alt=\"PORTADA DEL PROYECTO\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc5y-sjptdq0lz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. PRESENTATION OF THE PROJECT</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. PRESENTATION OF THE PROJECT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. PRESENTATION OF THE PROJECT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc5y-sjptdq0lz</odePageId>
+      <odeBlockId>block-1779811352614-qfoplkhf8</odeBlockId>
+      <blockName>PRESENTATION OF THE PROJECT</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc5y-sjptdq0lz</odePageId>
+          <odeBlockId>block-1779811352614-qfoplkhf8</odeBlockId>
+          <odeIdeviceId>idevice-1779811352611-nzxc762rg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;"><strong>Welcome!</strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">You are about to start a new adventure.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">First, take a look at this presentation to discover what our project is about, who we are going to help, and what challenges we will face.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;" title=""><a href="https://www.canva.com/design/DAHKBneatP0/UQAgNdADHtgRK7C4yR-aBw/edit">View the complete project</a></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">------------------------------------------------------------------------------------------------------------</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Bienvenidos!</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Estamos a punto de comenzar una nueva aventura.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Primero, echad un vistazo a la presentación para descubrir sobre que va nuestro proyecto, a quién va dirigido, temporalización de dicho proyecto y con que retos nos encontraremos entre otras cosas.</span></p>
+<p><a href="https://www.canva.com/design/DAHKBneatP0/UQAgNdADHtgRK7C4yR-aBw/edit"><span style="font-family: 'comic sans ms', sans-serif;" title="">Ver el proyecto completo</span></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779811352611-nzxc762rg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><strong>Welcome!</strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">You are about to start a new adventure.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">First, take a look at this presentation to discover what our project is about, who we are going to help, and what challenges we will face.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\"><a href=\"https://www.canva.com/design/DAHKBneatP0/UQAgNdADHtgRK7C4yR-aBw/edit\">View the complete project</a></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">------------------------------------------------------------------------------------------------------------</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Bienvenidos!</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Estamos a punto de comenzar una nueva aventura.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Primero, echad un vistazo a la presentación para descubrir sobre que va nuestro proyecto, a quién va dirigido, temporalización de dicho proyecto y con que retos nos encontraremos entre otras cosas.</span></p>\n<p><a href=\"https://www.canva.com/design/DAHKBneatP0/UQAgNdADHtgRK7C4yR-aBw/edit\"><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">Ver el proyecto completo</span></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc5z-mjvt0xxpe</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. WHAT ARE WE GOING TO LEARN?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. WHAT ARE WE GOING TO LEARN?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. WHAT ARE WE GOING TO LEARN?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc5z-mjvt0xxpe</odePageId>
+      <odeBlockId>block-1779860392370-7sir2uezv</odeBlockId>
+      <blockName>WHAT ARE WE GOING TO LEARN</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc5z-mjvt0xxpe</odePageId>
+          <odeBlockId>block-1779860392370-7sir2uezv</odeBlockId>
+          <odeIdeviceId>idevice-1779860392369-y9m0qiekw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"><a href="{{context_path}}/content/resources/THE MAGIC FOREST.pptx" title="THE MAGIC FOREST.pptx">THE MAGIC FOREST.pptx</a></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Aquí podréis observar varios aspectos del proyecto que vamos a aprender:</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">- El "topic" versa sobre la naturaleza.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">- Descubriremos como proteger el medioambiente.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">- Utilizaremos herramientas digitales tales como:</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">                * Canva</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">                * Genially</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">                * Padlet</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Entre otros muchos que podéis ver en la presentación.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">- Se trabajará de forma cooperativa</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">- Se creará como producto final una campaña digital</span></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779860392369-y9m0qiekw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><a href=\"{{context_path}}/content/resources/THE MAGIC FOREST.pptx\" title=\"THE MAGIC FOREST.pptx\">THE MAGIC FOREST.pptx</a></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Aquí podréis observar varios aspectos del proyecto que vamos a aprender:</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">- El \"topic\" versa sobre la naturaleza.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">- Descubriremos como proteger el medioambiente.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">- Utilizaremos herramientas digitales tales como:</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">                * Canva</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">                * Genially</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">                * Padlet</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Entre otros muchos que podéis ver en la presentación.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">- Se trabajará de forma cooperativa</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">- Se creará como producto final una campaña digital</span></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc61-qsj9iabzk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. DIGITAL SAFETY</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. DIGITAL SAFETY</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. DIGITAL SAFETY</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc61-qsj9iabzk</odePageId>
+      <odeBlockId>block-1779862546673-a8y4xa7kr</odeBlockId>
+      <blockName>DIGITAL SAFETY</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc61-qsj9iabzk</odePageId>
+          <odeBlockId>block-1779862546673-a8y4xa7kr</odeBlockId>
+          <odeIdeviceId>idevice-1779862546672-1498ay53o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Digital safetly Seguridad digital.jpg" title="DIGITAL SAFETY" width="741" height="1570" alt=" Panel informativo sobre seguridad digital" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779862546672-1498ay53o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Digital safetly Seguridad digital.jpg\" title=\"DIGITAL SAFETY\" width=\"741\" height=\"1570\" alt=\" Panel informativo sobre seguridad digital\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc62-ho56w7ht8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. FINAL PRODUCT</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. FINAL PRODUCT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. FINAL PRODUCT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc62-ho56w7ht8</odePageId>
+      <odeBlockId>block-1779887560024-lgzstgwd4</odeBlockId>
+      <blockName>Become a Guardian of Nature!</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc62-ho56w7ht8</odePageId>
+          <odeBlockId>block-1779887560024-lgzstgwd4</odeBlockId>
+          <odeIdeviceId>idevice-1779887560021-8yelwoqyf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-family: 'comic sans ms', sans-serif;"> </span><br /><strong><span style="font-family: 'comic sans ms', sans-serif;"><em>Welcome to our final mission! 🌍✨</em></span></strong></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">In this project, you will work with your team to help save the Magic Forest and protect nature.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Together, you will create a digital environmental campaign to teach other people how to care for the planet.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">What will you create? 🤔</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">🌱 Posters about nature and recycling  </span><br /><span style="font-family: 'comic sans ms', sans-serif;">♻️ Eco-friendly ideas to protect animals and forests  </span><br /><span style="font-family: 'comic sans ms', sans-serif;">💻 Digital creations using fun online tools  </span><br /><span style="font-family: 'comic sans ms', sans-serif;">🗣️ An oral presentation in English  </span><br /><span style="font-family: 'comic sans ms', sans-serif;">🤝 Teamwork activities with your classmates  </span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">During the project, you will use different digital tools such as:</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">🎨 Canva  </span><br /><span style="font-family: 'comic sans ms', sans-serif;">📌 Padlet  </span><br /><span style="font-family: 'comic sans ms', sans-serif;">🎮 Kahoot  </span><br /><span style="font-family: 'comic sans ms', sans-serif;">✨ Genially  </span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">You will investigate, play, create and share your ideas like real nature heroes!</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">At the end of the project, each team will present their campaign to the class and show how we can all help our planet.</span></p>
+<p style="text-align: center;"><span style="font-family: 'comic sans ms', sans-serif;">🌟 Are you ready to become a Guardian of Nature? 🌟</span></p>
+<p><br /></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/THE MAGIC FOREST.jpg" title="PRODUCTO FINAL" width="736" height="414" alt="PRODUCTO FINAL" style="text-align: center; display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"></span><br /></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"></span><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779887560021-8yelwoqyf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"> </span><br /><strong><span style=\"font-family: 'comic sans ms', sans-serif;\"><em>Welcome to our final mission! 🌍✨</em></span></strong></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">In this project, you will work with your team to help save the Magic Forest and protect nature.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Together, you will create a digital environmental campaign to teach other people how to care for the planet.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">What will you create? 🤔</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">🌱 Posters about nature and recycling  </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">♻️ Eco-friendly ideas to protect animals and forests  </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">💻 Digital creations using fun online tools  </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">🗣️ An oral presentation in English  </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">🤝 Teamwork activities with your classmates  </span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">During the project, you will use different digital tools such as:</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">🎨 Canva  </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">📌 Padlet  </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">🎮 Kahoot  </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">✨ Genially  </span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">You will investigate, play, create and share your ideas like real nature heroes!</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">At the end of the project, each team will present their campaign to the class and show how we can all help our planet.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">🌟 Are you ready to become a Guardian of Nature? 🌟</span></p>\n<p><br /></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/THE MAGIC FOREST.jpg\" title=\"PRODUCTO FINAL\" width=\"736\" height=\"414\" alt=\"PRODUCTO FINAL\" style=\"text-align: center; display: block; margin-left: auto; margin-right: auto;\" /></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"></span><br /></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"></span><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc64-5ut6gcvn4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. OUR DIGITAL RESOURCES</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. OUR DIGITAL RESOURCES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. OUR DIGITAL RESOURCES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc64-5ut6gcvn4</odePageId>
+      <odeBlockId>block-1779892655250-vkx2onf8g</odeBlockId>
+      <blockName>The tools we will use in our adventure!</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc64-5ut6gcvn4</odePageId>
+          <odeBlockId>block-1779892655250-vkx2onf8g</odeBlockId>
+          <odeIdeviceId>idevice-1779892655248-iw7uflvu1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;">During this project, we will use different digital tools to learn, play, create and work together. 🌍✨</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Here are our magic digital tools:</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">🎨 Canva  </span><br /><span style="font-family: 'comic sans ms', sans-serif;">We will create posters, cards and beautiful digital designs.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">📌 Padlet  </span><br /><span style="font-family: 'comic sans ms', sans-serif;">We will share ideas, images and interesting information with our classmates.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">✨ Genially  </span><br /><span style="font-family: 'comic sans ms', sans-serif;">We will create interactive activities and fun challenges.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">🎮 Kahoot  </span><br /><span style="font-family: 'comic sans ms', sans-serif;">We will play quizzes and review what we have learned.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">🔍 Wakelet  </span><br /><span style="font-family: 'comic sans ms', sans-serif;">We will collect useful videos, websites and resources about nature.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">💻 Computers and digital boards  </span><br /><span style="font-family: 'comic sans ms', sans-serif;">We will investigate, collaborate and present our work.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">🌟 Remember:</span><br /><span style="font-family: 'comic sans ms', sans-serif;">We must always use technology safely, respectfully and responsibly.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779892655248-iw7uflvu1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\">During this project, we will use different digital tools to learn, play, create and work together. 🌍✨</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Here are our magic digital tools:</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">🎨 Canva  </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">We will create posters, cards and beautiful digital designs.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">📌 Padlet  </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">We will share ideas, images and interesting information with our classmates.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">✨ Genially  </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">We will create interactive activities and fun challenges.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">🎮 Kahoot  </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">We will play quizzes and review what we have learned.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">🔍 Wakelet  </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">We will collect useful videos, websites and resources about nature.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">💻 Computers and digital boards  </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">We will investigate, collaborate and present our work.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">🌟 Remember:</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">We must always use technology safely, respectfully and responsibly.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc65-wfow6wudp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. TIMELINE OF THE PROJECT</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. TIMELINE OF THE PROJECT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. TIMELINE OF THE PROJECT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc65-wfow6wudp</odePageId>
+      <odeBlockId>block-1779893042266-jtk3pr1se</odeBlockId>
+      <blockName>Our magical learning journey</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc65-wfow6wudp</odePageId>
+          <odeBlockId>block-1779893042266-jtk3pr1se</odeBlockId>
+          <odeIdeviceId>idevice-1779893042264-f7pewrj1g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Get ready for an exciting adventure through the Magic Forest! 🌳✨</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">In this project, we will complete different missions and challenges to become true Guardians of Nature.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Each step of our journey will help us:</span><br /><span style="font-family: 'comic sans ms', sans-serif;">🌱 Learn about the environment</span><br /><span style="font-family: 'comic sans ms', sans-serif;">♻️ Discover how to protect our planet</span><br /><span style="font-family: 'comic sans ms', sans-serif;">🤝 Work cooperatively with our classmates</span><br /><span style="font-family: 'comic sans ms', sans-serif;">💻 Use digital tools responsibly</span><br /><span style="font-family: 'comic sans ms', sans-serif;">🎨 Create amazing projects and presentations</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Follow our timeline to see all the activities, missions and challenges we will complete together during this magical adventure!</span></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779893042264-f7pewrj1g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Get ready for an exciting adventure through the Magic Forest! 🌳✨</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">In this project, we will complete different missions and challenges to become true Guardians of Nature.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Each step of our journey will help us:</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">🌱 Learn about the environment</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">♻️ Discover how to protect our planet</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">🤝 Work cooperatively with our classmates</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">💻 Use digital tools responsibly</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">🎨 Create amazing projects and presentations</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Follow our timeline to see all the activities, missions and challenges we will complete together during this magical adventure!</span></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc66-21z2e6a9e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. OUR MISSIONS</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. OUR MISSIONS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. OUR MISSIONS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc66-21z2e6a9e</odePageId>
+      <odeBlockId>block-1779894704594-i0oz5zr3s</odeBlockId>
+      <blockName>Look for the missions you have to do now.</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc68-aiwomyf42</odePageId>
+  <odeParentPageId>page-mq6ovc66-21z2e6a9e</odeParentPageId>
+  <pageName>Misson 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Misson 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Misson 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Misson 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc68-aiwomyf42</odePageId>
+      <odeBlockId>block-1779895855226-qd41j5j60</odeBlockId>
+      <blockName>Discover the Problem</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc68-aiwomyf42</odePageId>
+          <odeBlockId>block-1779895855226-qd41j5j60</odeBlockId>
+          <odeIdeviceId>idevice-1779895855225-jl63tngua</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎥 <em><strong>Session 1:</strong></em><br />Watch videos about nature and pollution in <a href="https://padlet.com/etalbai655/the-magic-forest-guardian-of-the-nature-hs1q22xvjs405tgx"><em><strong title="">padlet</strong></em></a></p>
+<p>💬 Share your ideas with your classmates.</p>
+<p>🔍 <em><strong>Session 2:</strong></em><br />Investigate animals, forests and ecosystems.</p>
+<p>💻 Use Padlet and Wakelet to collect information.<br /> <br /> <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779895855225-jl63tngua","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🎥 <em><strong>Session 1:</strong></em><br />Watch videos about nature and pollution in <a href=\"https://padlet.com/etalbai655/the-magic-forest-guardian-of-the-nature-hs1q22xvjs405tgx\"><em><strong title=\"\">padlet</strong></em></a></p>\n<p>💬 Share your ideas with your classmates.</p>\n<p>🔍 <em><strong>Session 2:</strong></em><br />Investigate animals, forests and ecosystems.</p>\n<p>💻 Use Padlet and Wakelet to collect information.<br /> <br /> <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc69-s4mco10yh</odePageId>
+  <odeParentPageId>page-mq6ovc66-21z2e6a9e</odeParentPageId>
+  <pageName>Mission 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mission 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mission 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc69-s4mco10yh</odePageId>
+      <odeBlockId>block-1779897349651-gxc071kqc</odeBlockId>
+      <blockName>Recycling Challenge</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc69-s4mco10yh</odePageId>
+          <odeBlockId>block-1779897349651-gxc071kqc</odeBlockId>
+          <odeIdeviceId>idevice-1779897349650-ofv1pdhbf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;">🎮 <strong>Session 3:</strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">Play recycling games and learn about sustainability.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">🌱 <strong>Session 4:</strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">Create nature vocabulary cards and digital posters using Canva.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779897349650-ofv1pdhbf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\">🎮 <strong>Session 3:</strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Play recycling games and learn about sustainability.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">🌱 <strong>Session 4:</strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Create nature vocabulary cards and digital posters using Canva.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc6i-z74dhmq6w</odePageId>
+  <odeParentPageId>page-mq6ovc66-21z2e6a9e</odeParentPageId>
+  <pageName>Mission 3</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mission 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mission 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc6i-z74dhmq6w</odePageId>
+      <odeBlockId>block-1779897487567-rqj3xgfe0</odeBlockId>
+      <blockName>Eco Missions</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc6i-z74dhmq6w</odePageId>
+          <odeBlockId>block-1779897487567-rqj3xgfe0</odeBlockId>
+          <odeIdeviceId>idevice-1779897487565-f3oy4lvqh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong><span style="font-family: 'comic sans ms', sans-serif;">Session 5</span></strong></em></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">🤝 Work cooperatively with your team.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">💡 Solve environmental challenges together.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">✨ Create interactive activities using Genially.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779897487565-f3oy4lvqh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">Session 5</span></strong></em></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">🤝 Work cooperatively with your team.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">💡 Solve environmental challenges together.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">✨ Create interactive activities using Genially.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc6j-4oztui5fx</odePageId>
+  <odeParentPageId>page-mq6ovc66-21z2e6a9e</odeParentPageId>
+  <pageName>Mission 4</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mission 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mission 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc6j-4oztui5fx</odePageId>
+      <odeBlockId>block-1779897610898-pubb5uclh</odeBlockId>
+      <blockName>Create Your Campaign</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc6j-4oztui5fx</odePageId>
+          <odeBlockId>block-1779897610898-pubb5uclh</odeBlockId>
+          <odeIdeviceId>idevice-1779897610896-9vu8wljsa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;"><em><strong>🖥️ Session 6:</strong></em></span><br /><span style="font-family: 'comic sans ms', sans-serif;">Design your environmental campaign using Canva.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"><em><strong>🗣️ Session 7:</strong></em></span><br /><span style="font-family: 'comic sans ms', sans-serif;">Prepare and present your oral presentation in English.</span><br /><span style="font-family: 'comic sans ms', sans-serif;"> </span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779897610896-9vu8wljsa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><em><strong>🖥️ Session 6:</strong></em></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Design your environmental campaign using Canva.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><em><strong>🗣️ Session 7:</strong></em></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Prepare and present your oral presentation in English.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\"> </span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc6l-1txbqgx17</odePageId>
+  <odeParentPageId>page-mq6ovc66-21z2e6a9e</odeParentPageId>
+  <pageName>Mission 5</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mission 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mission 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc6l-1txbqgx17</odePageId>
+      <odeBlockId>block-1779897669950-qlxs4s6z1</odeBlockId>
+      <blockName>Share and Reflect</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc6l-1txbqgx17</odePageId>
+          <odeBlockId>block-1779897669950-qlxs4s6z1</odeBlockId>
+          <odeIdeviceId>idevice-1779897669949-om4g54m5t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;">🎤 Present your final project to the class.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">⭐ Reflect on what you have learned.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">🎮 Complete the final Kahoot challenge.</span><br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779897669949-om4g54m5t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\">🎤 Present your final project to the class.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">⭐ Reflect on what you have learned.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">🎮 Complete the final Kahoot challenge.</span><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc6l-cmh214hhu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. ASSESSMENT</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. ASSESSMENT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. ASSESSMENT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc6l-cmh214hhu</odePageId>
+      <odeBlockId>block-1779898581572-9jet5whme</odeBlockId>
+      <blockName>How we learn and improve?</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc6l-cmh214hhu</odePageId>
+          <odeBlockId>block-1779898581572-9jet5whme</odeBlockId>
+          <odeIdeviceId>idevice-1779898581571-bjyn8i6v7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;">During this project, you will learn many new things while having fun and working with your classmates! 🌳✨</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Your teacher will observe:</span><br /><span style="font-family: 'comic sans ms', sans-serif;">🌱 Your participation</span><br /><span style="font-family: 'comic sans ms', sans-serif;">🤝 Your teamwork</span><br /><span style="font-family: 'comic sans ms', sans-serif;">💻 Your use of digital tools</span><br /><span style="font-family: 'comic sans ms', sans-serif;">🗣️ Your English communication</span><br /><span style="font-family: 'comic sans ms', sans-serif;">🎨 Your creativity</span><br /><span style="font-family: 'comic sans ms', sans-serif;">♻️ Your ideas about protecting nature</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">You will also:</span><br /><span style="font-family: 'comic sans ms', sans-serif;">⭐ Reflect on your own learning</span><br /><span style="font-family: 'comic sans ms', sans-serif;">⭐ Complete self-assessment activities</span><br /><span style="font-family: 'comic sans ms', sans-serif;">⭐ Help your classmates</span><br /><span style="font-family: 'comic sans ms', sans-serif;">⭐ Receive feedback to improve step by step</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">At the end of the project:</span><br /><span style="font-family: 'comic sans ms', sans-serif;">🎤 You will present your environmental campaign.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">🎮 You will complete a fun Kahoot challenge.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">🌟 You will become a true Guardian of Nature!</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Remember:</span><br /><strong><span style="font-family: 'comic sans ms', sans-serif;">Mistakes help us learn and grow! 💚</span></strong></p>
+<p><iframe width="300" height="150" src="{{context_path}}/content/resources/RUBRICA.pdf"></iframe></p>
+<p><iframe width="300" height="150" src="{{context_path}}/content/resources/DIANA EVALUACIÓN.pdf"></iframe></p>
+<p></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779898581571-bjyn8i6v7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\">During this project, you will learn many new things while having fun and working with your classmates! 🌳✨</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Your teacher will observe:</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">🌱 Your participation</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">🤝 Your teamwork</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">💻 Your use of digital tools</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">🗣️ Your English communication</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">🎨 Your creativity</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">♻️ Your ideas about protecting nature</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">You will also:</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">⭐ Reflect on your own learning</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">⭐ Complete self-assessment activities</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">⭐ Help your classmates</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">⭐ Receive feedback to improve step by step</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">At the end of the project:</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">🎤 You will present your environmental campaign.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">🎮 You will complete a fun Kahoot challenge.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">🌟 You will become a true Guardian of Nature!</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Remember:</span><br /><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">Mistakes help us learn and grow! 💚</span></strong></p>\n<p><iframe width=\"300\" height=\"150\" src=\"{{context_path}}/content/resources/RUBRICA.pdf\"></iframe></p>\n<p><iframe width=\"300\" height=\"150\" src=\"{{context_path}}/content/resources/DIANA EVALUACIÓN.pdf\"></iframe></p>\n<p></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc6m-f3xmpfqmg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>10. DIGITAL GUIDE</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>10. DIGITAL GUIDE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>10. DIGITAL GUIDE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>10. DIGITAL GUIDE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc6m-f3xmpfqmg</odePageId>
+      <odeBlockId>block-1780307069848-2jtw1l9xw</odeBlockId>
+      <blockName>INTRODUCTION</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc6m-f3xmpfqmg</odePageId>
+          <odeBlockId>block-1780307069848-2jtw1l9xw</odeBlockId>
+          <odeIdeviceId>idevice-1780307069832-giavrrgvb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>This section is intended for teachers who wish to implement this project in their classrooms.</p>
+<p>Here you will find information about the assessment criteria, methodology, organisation of sessions, attention to diversity and the assessment instruments used throughout the project.<br /> ---------------------------------------------------------------------------------------------------------------------------------</p>
+<p>Esta sección está dirigida a docentes que deseen implementar este proyecto en sus aulas.</p>
+<p>Aquí encontrarán información sobre los criterios de evaluación, la metodología, la organización de las sesiones, la atención a la diversidad y los instrumentos de evaluación utilizados a lo largo del proyecto.</p>
+<p> <iframe width="300" height="150" src="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf"></iframe></p>
+<p><iframe width="300" height="150" src="{{context_path}}/content/resources/LINEA DEL TIEMPO.pdf"></iframe></p>
+<p><iframe width="300" height="150" src="{{context_path}}/content/resources/RUBRICA.pdf"></iframe></p>
+<p><iframe width="300" height="150" src="{{context_path}}/content/resources/DIANA EVALUACIÓN.pdf"></iframe></p>
+<p></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780307069832-giavrrgvb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>This section is intended for teachers who wish to implement this project in their classrooms.</p>\n<p>Here you will find information about the assessment criteria, methodology, organisation of sessions, attention to diversity and the assessment instruments used throughout the project.<br /> ---------------------------------------------------------------------------------------------------------------------------------</p>\n<p>Esta sección está dirigida a docentes que deseen implementar este proyecto en sus aulas.</p>\n<p>Aquí encontrarán información sobre los criterios de evaluación, la metodología, la organización de las sesiones, la atención a la diversidad y los instrumentos de evaluación utilizados a lo largo del proyecto.</p>\n<p> <iframe width=\"300\" height=\"150\" src=\"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf\"></iframe></p>\n<p><iframe width=\"300\" height=\"150\" src=\"{{context_path}}/content/resources/LINEA DEL TIEMPO.pdf\"></iframe></p>\n<p><iframe width=\"300\" height=\"150\" src=\"{{context_path}}/content/resources/RUBRICA.pdf\"></iframe></p>\n<p><iframe width=\"300\" height=\"150\" src=\"{{context_path}}/content/resources/DIANA EVALUACIÓN.pdf\"></iframe></p>\n<p></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc6n-myix74e2w</odePageId>
+  <odeParentPageId>page-mq6ovc6m-f3xmpfqmg</odeParentPageId>
+  <pageName>METHODOLOGY</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>METHODOLOGY</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>METHODOLOGY</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc6n-myix74e2w</odePageId>
+      <odeBlockId>block-1780307797578-c0dsfvklb</odeBlockId>
+      <blockName>METHODOLOGY</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc6n-myix74e2w</odePageId>
+          <odeBlockId>block-1780307797578-c0dsfvklb</odeBlockId>
+          <odeIdeviceId>idevice-1780307797576-abb98zip2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>The project is based on active methodologies, cooperative learning and the responsible use of digital technologies.</p>
+<p>Students work individually, in pairs and in cooperative groups to complete meaningful tasks connected to environmental awareness and sustainability.</p>
+<p>------------------------------------------------------------------------------------------------------------------------------------</p>
+<p>El proyecto se basa en metodologías activas, aprendizaje cooperativo y el uso responsable de las tecnologías digitales.</p>
+<p>Los estudiantes trabajan individualmente, en parejas y en grupos cooperativos para completar tareas significativas relacionadas con la conciencia ambiental y la sostenibilidad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780307797576-abb98zip2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>The project is based on active methodologies, cooperative learning and the responsible use of digital technologies.</p>\n<p>Students work individually, in pairs and in cooperative groups to complete meaningful tasks connected to environmental awareness and sustainability.</p>\n<p>------------------------------------------------------------------------------------------------------------------------------------</p>\n<p>El proyecto se basa en metodologías activas, aprendizaje cooperativo y el uso responsable de las tecnologías digitales.</p>\n<p>Los estudiantes trabajan individualmente, en parejas y en grupos cooperativos para completar tareas significativas relacionadas con la conciencia ambiental y la sostenibilidad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc6o-1065nqpin</odePageId>
+  <odeParentPageId>page-mq6ovc6m-f3xmpfqmg</odeParentPageId>
+  <pageName>ATTENTION TO DIVERSITY</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ATTENTION TO DIVERSITY</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ATTENTION TO DIVERSITY</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc6o-1065nqpin</odePageId>
+      <odeBlockId>block-1780307948029-f1nv20s2t</odeBlockId>
+      <blockName>ATT. DIVERSITY</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc6o-1065nqpin</odePageId>
+          <odeBlockId>block-1780307948029-f1nv20s2t</odeBlockId>
+          <odeIdeviceId>idevice-1780307948028-3dv96t2bm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>The project follows the principles of Universal Design for Learning (UDL).</p>
+<p>Visual supports, flexible grouping, digital resources and differentiated tasks are provided to ensure the participation of all learners.</p>
+<p>-----------------------------------------------------------------------------------------------------------------------------------</p>
+<p>El proyecto se rige por los principios del Diseño Universal para el Aprendizaje (DUA).</p>
+<p>Se proporcionan apoyos visuales, agrupaciones flexibles, recursos digitales y tareas diferenciadas para garantizar la participación de todos los estudiantes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780307948028-3dv96t2bm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>The project follows the principles of Universal Design for Learning (UDL).</p>\n<p>Visual supports, flexible grouping, digital resources and differentiated tasks are provided to ensure the participation of all learners.</p>\n<p>-----------------------------------------------------------------------------------------------------------------------------------</p>\n<p>El proyecto se rige por los principios del Diseño Universal para el Aprendizaje (DUA).</p>\n<p>Se proporcionan apoyos visuales, agrupaciones flexibles, recursos digitales y tareas diferenciadas para garantizar la participación de todos los estudiantes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6ovc6q-4h9v2uuut</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>11. CREDITS</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>11. CREDITS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>11. CREDITS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6ovc6q-4h9v2uuut</odePageId>
+      <odeBlockId>block-1780406200503-1vrsd7f6v</odeBlockId>
+      <blockName>PROYECT INFORMATION</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc6q-4h9v2uuut</odePageId>
+          <odeBlockId>block-1780406200503-1vrsd7f6v</odeBlockId>
+          <odeIdeviceId>idevice-1780406200501-vjsgkn6j9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> 🌟Title: <strong>The Magic Forest: Guardians of Nature</strong></p>
+<p>      Educational Level:<strong> 4th Grade Primary Education</strong></p>
+<p>      School Year: <strong>2025–2026</strong></p>
+<p>     Language: <strong>English (Bilingual Education)</strong><strong></strong></p>
+<p><strong>👩‍🏫AUTHOR</strong></p>
+<p><strong> </strong>Eva Talavera Bailén</p>
+<p>This educational resource has been created as part of the Digital Teaching Competence B2 Training Programme</p>
+<p><strong>📖 PROYECT DESCRIPTION</strong><br />"The Magic Forest: Guardians of Nature" is an interdisciplinary learning project designed for 4th Grade Primary Education students.</p>
+<p>Through cooperative learning, digital tools and environmental challenges, students develop their digital competence, creativity, communication skills and environmental awareness while creating a digital campaign to protect nature.</p>
+<p></p>
+<p><b>🛠️DIGITAL TOOL USED</b></p>
+<p>- eXeLearning 3<br />- Canva<br />- Padlet<br />- Wakelet<br />- Genially<br />- Kahoot<br />- YouTube</p>
+<p>🌍<strong> ACCESSIBILITY AND INCLUSION</strong><br />This project has been designed following the principles of Universal Design for Learning (UDL), promoting participation, accessibility and inclusion for all learners.</p>
+<p> <br />📄 <strong>LICENSE</strong><br />Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</p>
+<p>You are free to share and adapt this resource provided that appropriate credit is given and any adaptations are distributed under the same licence.</p>
+<p> <br />⬇️<strong>EDITABLE VERSION</strong><br />The editable eXeLearning file is available for download and adaptation for educational purposes.</p>
+<p>Thank you for visiting our project!</p>
+<p>🌳 Together, we can become true Guardians of Nature! 🌍✨</p>
+<p>--------------------------------------------------------------------------------------------------------------</p>
+<p></p>
+<p>🌟Título: <strong>El Bosque Mágico: Guardianes de la Naturaleza</strong></p>
+<p>     Nivel Educativo: <strong>4.º de Educación Primaria</strong></p>
+<p>     Curso Escolar: <strong>2025-2026</strong></p>
+<p>     Idioma: <strong>Inglés (Educación Bilingüe)</strong></p>
+<p><strong></strong></p>
+<p><strong>👩‍🏫AUTOR</strong></p>
+<p><strong> </strong>Eva Talavera Bailén</p>
+<p>Este recurso educativo se ha creado como parte del Programa de Formación en Competencia Docente Digital B2.</p>
+<p><strong>📖DESCRIPCIÓN DEL PROYECTO</strong></p>
+<p>"El Bosque Mágico: Guardianes de la Naturaleza" es un proyecto de aprendizaje interdisciplinario diseñado para estudiantes de cuarto grado de primaria.</p>
+<p>Mediante el aprendizaje cooperativo, herramientas digitales y desafíos ambientales, los estudiantes desarrollan su competencia digital, creatividad, habilidades comunicativas y conciencia ambiental al tiempo que crean una campaña digital para proteger la naturaleza.</p>
+<p> </p>
+<p></p>
+<p><strong>🛠️ HERRAMIENTAS DIGITALES UTILIZADAS</strong><br />- eXeLearning 3<br />- Canva<br />- Padlet<br />- Wakelet<br />- Genially<br />- Kahoot<br />- YouTube</p>
+<p>🌍 <strong>ACCESIBILIDAD E INCLUSIÓN</strong><br />Este proyecto ha sido diseñado siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), promoviendo la participación, la accesibilidad y la inclusión de todos los estudiantes.</p>
+<p> </p>
+<p>📄<strong> LICENCIA</strong><br />Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)</p>
+<p>Puedes compartir y adaptar este recurso libremente, siempre que se otorgue el crédito correspondiente y cualquier adaptación se distribuya bajo la misma licencia.</p>
+<p> </p>
+<p>⬇️ <strong>VERSIÓN EDITABLE</strong><br />El archivo editable de eXeLearning está disponible para su descarga y adaptación con fines educativos.</p>
+<p>¡Gracias por visitar nuestro proyecto!</p>
+<p>🌳 ¡Juntos podemos convertirnos en verdaderos guardianes de la naturaleza! 🌍✨</p>
+<p><img src="{{context_path}}/content/resources/foto final proyecto.png" title="the guardian of the forest" width="1396" height="931" alt="foto final proyecto " /></p>
+<p></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780406200501-vjsgkn6j9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> 🌟Title: <strong>The Magic Forest: Guardians of Nature</strong></p>\n<p>      Educational Level:<strong> 4th Grade Primary Education</strong></p>\n<p>      School Year: <strong>2025–2026</strong></p>\n<p>     Language: <strong>English (Bilingual Education)</strong><strong></strong></p>\n<p><strong>👩‍🏫AUTHOR</strong></p>\n<p><strong> </strong>Eva Talavera Bailén</p>\n<p>This educational resource has been created as part of the Digital Teaching Competence B2 Training Programme</p>\n<p><strong>📖 PROYECT DESCRIPTION</strong><br />\"The Magic Forest: Guardians of Nature\" is an interdisciplinary learning project designed for 4th Grade Primary Education students.</p>\n<p>Through cooperative learning, digital tools and environmental challenges, students develop their digital competence, creativity, communication skills and environmental awareness while creating a digital campaign to protect nature.</p>\n<p></p>\n<p><b>🛠️DIGITAL TOOL USED</b></p>\n<p>- eXeLearning 3<br />- Canva<br />- Padlet<br />- Wakelet<br />- Genially<br />- Kahoot<br />- YouTube</p>\n<p>🌍<strong> ACCESSIBILITY AND INCLUSION</strong><br />This project has been designed following the principles of Universal Design for Learning (UDL), promoting participation, accessibility and inclusion for all learners.</p>\n<p> <br />📄 <strong>LICENSE</strong><br />Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</p>\n<p>You are free to share and adapt this resource provided that appropriate credit is given and any adaptations are distributed under the same licence.</p>\n<p> <br />⬇️<strong>EDITABLE VERSION</strong><br />The editable eXeLearning file is available for download and adaptation for educational purposes.</p>\n<p>Thank you for visiting our project!</p>\n<p>🌳 Together, we can become true Guardians of Nature! 🌍✨</p>\n<p>--------------------------------------------------------------------------------------------------------------</p>\n<p></p>\n<p>🌟Título: <strong>El Bosque Mágico: Guardianes de la Naturaleza</strong></p>\n<p>     Nivel Educativo: <strong>4.º de Educación Primaria</strong></p>\n<p>     Curso Escolar: <strong>2025-2026</strong></p>\n<p>     Idioma: <strong>Inglés (Educación Bilingüe)</strong></p>\n<p><strong></strong></p>\n<p><strong>👩‍🏫AUTOR</strong></p>\n<p><strong> </strong>Eva Talavera Bailén</p>\n<p>Este recurso educativo se ha creado como parte del Programa de Formación en Competencia Docente Digital B2.</p>\n<p><strong>📖DESCRIPCIÓN DEL PROYECTO</strong></p>\n<p>\"El Bosque Mágico: Guardianes de la Naturaleza\" es un proyecto de aprendizaje interdisciplinario diseñado para estudiantes de cuarto grado de primaria.</p>\n<p>Mediante el aprendizaje cooperativo, herramientas digitales y desafíos ambientales, los estudiantes desarrollan su competencia digital, creatividad, habilidades comunicativas y conciencia ambiental al tiempo que crean una campaña digital para proteger la naturaleza.</p>\n<p> </p>\n<p></p>\n<p><strong>🛠️ HERRAMIENTAS DIGITALES UTILIZADAS</strong><br />- eXeLearning 3<br />- Canva<br />- Padlet<br />- Wakelet<br />- Genially<br />- Kahoot<br />- YouTube</p>\n<p>🌍 <strong>ACCESIBILIDAD E INCLUSIÓN</strong><br />Este proyecto ha sido diseñado siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), promoviendo la participación, la accesibilidad y la inclusión de todos los estudiantes.</p>\n<p> </p>\n<p>📄<strong> LICENCIA</strong><br />Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)</p>\n<p>Puedes compartir y adaptar este recurso libremente, siempre que se otorgue el crédito correspondiente y cualquier adaptación se distribuya bajo la misma licencia.</p>\n<p> </p>\n<p>⬇️ <strong>VERSIÓN EDITABLE</strong><br />El archivo editable de eXeLearning está disponible para su descarga y adaptación con fines educativos.</p>\n<p>¡Gracias por visitar nuestro proyecto!</p>\n<p>🌳 ¡Juntos podemos convertirnos en verdaderos guardianes de la naturaleza! 🌍✨</p>\n<p><img src=\"{{context_path}}/content/resources/foto final proyecto.png\" title=\"the guardian of the forest\" width=\"1396\" height=\"931\" alt=\"foto final proyecto \" /></p>\n<p></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq6ovc6q-4h9v2uuut</odePageId>
+      <odeBlockId>block-1781000493059-s8u739n1v</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6ovc6q-4h9v2uuut</odePageId>
+          <odeBlockId>block-1781000493059-s8u739n1v</odeBlockId>
+          <odeIdeviceId>idevice-1781000493056-pgz5ohscq</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">THE MAGIC FOREST: GUARDIAN OF NATURE</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de Aprendizaje interdisciplinar dirigida al alumnado de 4º de Educación Primaria en un contexto bilingüe.
+
+El proyecto trabaja el cuidado del medioambiente y los ecosistemas mediante metodologías activas, herramientas digitales y actividades cooperativas. El alumnado elaborará una campaña digital de concienciación medioambiental utilizando diferentes recursos tecnológicos.
+
+El recurso ha sido diseñado siguiendo principios DUA, fomentando la creatividad, la competencia digital y el aprendizaje significativo.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Eva Talavera Bailén</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#20d924;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
